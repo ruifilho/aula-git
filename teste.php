@@ -1,2 +1,3 @@
 <?php phpinfo(); ?>
 <?php echo "Teste" ?>
+adicionando novo teste
